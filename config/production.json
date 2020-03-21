@@ -1,0 +1,6 @@
+{
+    "port" : 5000,
+    "jwtSecret": "dartwen blob",
+    "mongoUri": "mongodb+srv://dartwen:vfkmxbr1@cluster0-mzhet.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
